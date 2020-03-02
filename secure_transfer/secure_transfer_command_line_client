@@ -1,0 +1,2 @@
+Yes
+By changing force_local_data_ssl=NO,force_local_logins_ssl=NO we can transfer files through command line

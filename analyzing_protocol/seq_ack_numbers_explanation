@@ -1,0 +1,2 @@
+Each endpoint of a TCP connection establishes a starting sequence number for packets it sends, and sends this number in the SYN packet that it sends as part of establishing a connection.
+There is no requirement for either end to follow a particular procedure in choosing the starting sequence number. The operating system is free to use any mechanism it likes, but generally it's best if it chooses a random number, as this is more secure.

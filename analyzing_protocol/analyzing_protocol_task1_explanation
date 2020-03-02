@@ -1,0 +1,1 @@
+the ip address from ifconfig is private, where as the address we use to ping is the DNS which is public and translated by NAT(Network address Translation) and redirects to the private inet i.e. address from ifconfig.

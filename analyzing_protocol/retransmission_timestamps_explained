@@ -1,0 +1,5 @@
+0.4120,1.2635,3.7360,11.2050,33.6150
+0.8515,2.4725,7.4688,22.41
+increasing
+it is increasing exponetially.once the sender receives three duplicate acknowledgments, it will immediately retransmit the missing packet instead of waiting for a timer to expire. These are called fast retransmissions.
+Common reasons for retransmissions include network congestion where packets are dropped (either a TCP segment is lost on its way to the destination, or the associated ACK is lost on the way back to the sender), tight router QoS rules that give preferential treatment to certain protocols.
